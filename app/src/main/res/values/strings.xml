@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyConverter</string>
+    <string name="temperature_converter">Temperature_Converter</string>
+    <string name="temperature_in_celcius">temperature_in_celcius</string>
+    <string name="temperature_in_farenheit">temperature_in_farenheit</string>
+    <string name="convert">Convert</string>
+    <string name="reset">Reset</string>
+</resources>
